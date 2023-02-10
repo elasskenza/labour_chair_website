@@ -2,7 +2,7 @@
 
 Dernière actualisation le 06/02
 
-Site dispo au lien suivant [https://elasskenza.github.io/Labour_chair/](https://elasskenza.github.io/Labour_chair/)
+Site dispo au lien suivant [https://elasskenza.github.io/Labour_chair/](https://elasskenza.github.io/abour_chair_website/)
 
 ## Structure du site
 
