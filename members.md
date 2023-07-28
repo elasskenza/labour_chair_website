@@ -12,17 +12,17 @@ elements:
 
 ## Porteurs de la chaire
 
-- **Eric Maurin**: Professeur titulaire d’une chaire à PSE et Directeur d’études à l’EHESS.
+- **Éric Maurin**: Professeur titulaire d’une chaire à PSE et Directeur d’études à l’EHESS.
 - **Dominique Meurs**:  Directrice exécutive de la chaire de recherche « Travail », Professeure à l’université Paris Nanterre et Chercheure associée à l’Ined.
 
 ## Doctorants
 
 ### 1ère année 
 
-- **Florentine Oliveira**, thèse : « Intégration économique des mères et devenir de leurs enfants », sous la direction d’Eric Maurin.
+- **Florentine Oliveira**, thèse : « Siblings inequalities in education », sous la direction d’Éric Maurin.
 	* [Page personnelle](https://www.parisschoolofeconomics.eu/fr/oliveira-florentine/)
 	* [florentine.oliveira@psemail.eu](florentine.oliveira@psemail.eu)
-- **Florentine Oliveira**,  thèse : « Cumul entre allocation chômage et revenu d’activité », sous la direction Dominique Meurs.
+- **Kévin Savary**,  thèse : « Cumul entre allocation chômage et revenu d’activité », sous la direction Dominique Meurs.
 	* [Page personnelle](https://www.parisschoolofeconomics.eu/fr/savary-kevin/)
 	* [kevin.savary@psemail.eu](kevin.savary@psemail.eu)
 	
@@ -40,12 +40,12 @@ elements:
 	
 ## Doctorants associés	
 
-- **Baptiste Roux**
+- **Baptiste Roux**, thèse : « In search of working time ? », sous la direction de Philippe Askénazy
 	* [Page personnelle](https://www.parisschoolofeconomics.eu/fr/roux-baptiste/)
 	* [baptiste.roux@psemail.eu](baptiste.roux@psemail.eu)
 
 ## Post-doctorants
 	
-- **Todor Tochev** Doctorant de l’université de Warwick (soutenance début 2023), financement PIC sur le thème « formation professionnelle et transition vers l’emploi »
+- **Todor Tochev** Docteur de l’université de Warwick, financement PIC sur le thème « formation professionnelle et transition vers l’emploi »
 	* [Page personnelle](https://www.parisschoolofeconomics.eu/fr/tochev-todor/)
 	* [todor.tochev@psemail.eu](todor.tochev@psemail.eu)
